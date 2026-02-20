@@ -148,7 +148,7 @@ LIMIT 10;
 Senior Data Analyst | SQL · ETL · Business Intelligence  
 - LinkedIn: [linkedin.com/in/biexcel](https://linkedin.com/in/biexcel)
 - GitHub: [github.com/jarpaivan-wq](https://github.com/jarpaivan-wq)
-- Portfolio: [Collection ETL Pipeline](https://github.com/jarpaivan-wq/collection-etl-pipeline)
+- Other ETL pipeline: [Collection ETL Pipeline](https://github.com/jarpaivan-wq/collection-etl-pipeline)
 
 ## License
 
